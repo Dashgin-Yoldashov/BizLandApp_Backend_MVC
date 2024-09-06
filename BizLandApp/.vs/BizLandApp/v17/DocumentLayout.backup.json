@@ -1,0 +1,781 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\R\\Desktop\\BizLandApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Migrations\\20240906150031_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BizLandApp\\Migrations\\20240906150031_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\models\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\models\\aboutlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\models\\aboutlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\models\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\models\\about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\migrations\\20240905233543_models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\migrations\\20240905233543_models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\wwwroot\\assets\\vendor\\waypoints\\noframework.waypoints.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\wwwroot\\assets\\vendor\\waypoints\\noframework.waypoints.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\wwwroot\\assets\\vendor\\aos\\aos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\wwwroot\\assets\\vendor\\aos\\aos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\wwwroot\\assets\\vendor\\purecounter\\purecounter.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\wwwroot\\assets\\vendor\\purecounter\\purecounter.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\models\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\models\\skills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\models\\contacthead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\models\\contacthead.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\models\\sectionheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\models\\sectionheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\models\\faq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\models\\faq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\models\\pricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\models\\pricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\models\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\models\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\migrations\\20240904160809_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\migrations\\20240904160809_model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\bizlandapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\bizlandapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\models\\testimonials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\models\\testimonials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\models\\counters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\models\\counters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\models\\homehero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\models\\homehero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|c:\\users\\r\\desktop\\bizlandapp\\bizlandapp\\migrations\\20240904174144_model2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806C6CD9-A152-4F6D-AF68-9C08E025976C}|BizLandApp\\BizLandApp.csproj|solutionrelative:bizlandapp\\migrations\\20240904174144_model2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 292,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BizLandApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BizLandApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAEwPUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:27:33.587Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "BizLandApp\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T22:55:15.521Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Areas\\admin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BizLandApp\\Areas\\admin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Areas\\admin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "BizLandApp\\Areas\\admin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T15:05:53.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Areas\\admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BizLandApp\\Areas\\admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Areas\\admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "BizLandApp\\Areas\\admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwB4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T23:17:52.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Areas\\admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "BizLandApp\\Areas\\admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Areas\\admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "BizLandApp\\Areas\\admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwCkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T23:13:12.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Areas\\admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\Areas\\admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Areas\\admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "BizLandApp\\Areas\\admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAFcAAADAzMzMzMw4wGYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:04:23.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Areas\\admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "BizLandApp\\Areas\\admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Areas\\admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "BizLandApp\\Areas\\admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T14:58:31.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240906150031_category.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Migrations\\20240906150031_category.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\Migrations\\20240906150031_category.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Migrations\\20240906150031_category.cs",
+              "RelativeToolTip": "BizLandApp\\Migrations\\20240906150031_category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:00:32.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\EntityBase.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\Models\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\EntityBase.cs",
+              "RelativeToolTip": "BizLandApp\\Models\\EntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:03:29.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\Client.cs",
+              "RelativeToolTip": "BizLandApp\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T20:50:14.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AboutList.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\AboutList.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\Models\\AboutList.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\AboutList.cs",
+              "RelativeToolTip": "BizLandApp\\Models\\AboutList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T20:43:42.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "About.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\About.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\Models\\About.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\About.cs",
+              "RelativeToolTip": "BizLandApp\\Models\\About.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T20:39:48.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240905233543_models.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Migrations\\20240905233543_models.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\Migrations\\20240905233543_models.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Migrations\\20240905233543_models.cs",
+              "RelativeToolTip": "BizLandApp\\Migrations\\20240905233543_models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T23:35:43.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BizLandApp\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BizLandApp\\Areas\\admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAACAZmZmZmYkwDsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T19:48:28.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "BizLandApp\\Areas\\admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T17:31:10.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Areas\\admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\Areas\\admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Areas\\admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BizLandApp\\Areas\\admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T18:00:58.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "BizLandApp\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "BizLandApp\\Areas\\admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T18:42:09.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Program.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\Program.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Program.cs",
+              "RelativeToolTip": "BizLandApp\\Program.cs",
+              "ViewState": "AgIAAA8AAABAZmZmZmYkwB4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:44:56.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "noframework.waypoints.js",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\wwwroot\\assets\\vendor\\waypoints\\noframework.waypoints.js",
+              "RelativeDocumentMoniker": "BizLandApp\\wwwroot\\assets\\vendor\\waypoints\\noframework.waypoints.js",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\wwwroot\\assets\\vendor\\waypoints\\noframework.waypoints.js",
+              "RelativeToolTip": "BizLandApp\\wwwroot\\assets\\vendor\\waypoints\\noframework.waypoints.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-05T17:58:10.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "swiper-bundle.min.js",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+              "RelativeDocumentMoniker": "BizLandApp\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+              "RelativeToolTip": "BizLandApp\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-05T17:58:06.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "aos.js",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\wwwroot\\assets\\vendor\\aos\\aos.js",
+              "RelativeDocumentMoniker": "BizLandApp\\wwwroot\\assets\\vendor\\aos\\aos.js",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\wwwroot\\assets\\vendor\\aos\\aos.js",
+              "RelativeToolTip": "BizLandApp\\wwwroot\\assets\\vendor\\aos\\aos.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-05T17:57:53.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "glightbox.js",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
+              "RelativeDocumentMoniker": "BizLandApp\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
+              "RelativeToolTip": "BizLandApp\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
+              "ViewState": "AgIAADEBAAAAlZmZmZk6wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-05T17:57:36.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "purecounter.js",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\wwwroot\\assets\\vendor\\purecounter\\purecounter.js",
+              "RelativeDocumentMoniker": "BizLandApp\\wwwroot\\assets\\vendor\\purecounter\\purecounter.js",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\wwwroot\\assets\\vendor\\purecounter\\purecounter.js",
+              "RelativeToolTip": "BizLandApp\\wwwroot\\assets\\vendor\\purecounter\\purecounter.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-05T17:57:24.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BizLandApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T14:27:01.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "BizLandApp\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T18:53:37.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Skills.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\Skills.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\Models\\Skills.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\Skills.cs",
+              "RelativeToolTip": "BizLandApp\\Models\\Skills.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T20:45:58.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BizLandApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BizLandApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:38:26.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BizLandApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BizLandApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T14:21:16.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ContactHead.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\ContactHead.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\Models\\ContactHead.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\ContactHead.cs",
+              "RelativeToolTip": "BizLandApp\\Models\\ContactHead.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:59:25.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Pricing.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\Pricing.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\Models\\Pricing.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\Pricing.cs",
+              "RelativeToolTip": "BizLandApp\\Models\\Pricing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:42:31.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\Team.cs",
+              "RelativeToolTip": "BizLandApp\\Models\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:21:57.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FAQ.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\FAQ.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\Models\\FAQ.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\FAQ.cs",
+              "RelativeToolTip": "BizLandApp\\Models\\FAQ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:48:58.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SectionHeader.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\SectionHeader.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\Models\\SectionHeader.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\SectionHeader.cs",
+              "RelativeToolTip": "BizLandApp\\Models\\SectionHeader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T23:12:52.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\Contact.cs",
+              "RelativeToolTip": "BizLandApp\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T15:16:01.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\Services.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\Models\\Services.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\Services.cs",
+              "RelativeToolTip": "BizLandApp\\Models\\Services.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:09:17.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20240904174144_model2.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Migrations\\20240904174144_model2.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\Migrations\\20240904174144_model2.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Migrations\\20240904174144_model2.cs",
+              "RelativeToolTip": "BizLandApp\\Migrations\\20240904174144_model2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:41:44.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\appsettings.json",
+              "RelativeDocumentMoniker": "BizLandApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\appsettings.json",
+              "RelativeToolTip": "BizLandApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-03T18:59:53.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240904160809_model.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Migrations\\20240904160809_model.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\Migrations\\20240904160809_model.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Migrations\\20240904160809_model.cs",
+              "RelativeToolTip": "BizLandApp\\Migrations\\20240904160809_model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:08:10.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Testimonials.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\Testimonials.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\Models\\Testimonials.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\Testimonials.cs",
+              "RelativeToolTip": "BizLandApp\\Models\\Testimonials.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T21:36:28.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Counters.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\Counters.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\Models\\Counters.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\Counters.cs",
+              "RelativeToolTip": "BizLandApp\\Models\\Counters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T20:48:26.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BizLandApp.csproj",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\BizLandApp.csproj",
+              "RelativeDocumentMoniker": "BizLandApp\\BizLandApp.csproj",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\BizLandApp.csproj",
+              "RelativeToolTip": "BizLandApp\\BizLandApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-03T14:42:00.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "HomeHero.cs",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\HomeHero.cs",
+              "RelativeDocumentMoniker": "BizLandApp\\Models\\HomeHero.cs",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Models\\HomeHero.cs",
+              "RelativeToolTip": "BizLandApp\\Models\\HomeHero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T19:04:06.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BizLandApp\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BizLandApp\\Areas\\admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T18:43:57.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BizLandApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BizLandApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T14:41:13.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "BizLandApp\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\R\\Desktop\\BizLandApp\\BizLandApp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "BizLandApp\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-03T14:44:13.926Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+﻿@model BizLandApp.Models.Product
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Product</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Img" class="control-label"></label>
+                <input asp-for="Img" class="form-control" accept="image/*" />
+                <span asp-validation-for="Img" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Type" class="control-label"></label>
+                <input asp-for="Type" class="form-control" />
+                <span asp-validation-for="Type" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FilterName" class="control-label"></label>
+                <select asp-for="FilterName" class="form-control">
+                    <option value="filter-app">app</option>
+                    <option value="filter-web">web</option>
+                    <option value="filter-card">card</option>
+                </select>
+                <span asp-validation-for="FilterName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CategoriesId" class="control-label"></label>
+                <select asp-for ="CategoriesId" class="form-control">
+                    <option value="2">app</option>
+                    <option value="3">web</option>
+                    <option value="4">card</option>
+                </select>
+                <span asp-validation-for="CategoriesId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DetailsLink" class="control-label"></label>
+                <input asp-for="DetailsLink" class="form-control" />
+                <span asp-validation-for="DetailsLink" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TextNum" class="control-label"></label>
+                <input asp-for="TextNum" class="form-control" />
+                <span asp-validation-for="TextNum" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
