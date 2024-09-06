@@ -1,0 +1,109 @@
+﻿@model HomeViewModel
+<div class="gtco-container">
+	<div class="row">
+		<div class="col-md-12">
+			<div class="owl-carousel owl-carousel-fullwidth">
+				@foreach (Corusel item in Model.Corusels)
+				{
+				<div class="item">
+					<a href="#">
+						<img src="~/images/@item.Image" alt="Free Website Template by FreeHTML5.co">
+						<div class="slider-copy">
+							<h2>@item.Architecture</h2>
+						</div>
+					</a>
+				</div>
+				}
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="gtco-section">
+	<div class="gtco-container">
+		<div class="row">
+			<div class="col-md-8 col-md-offset-2 gtco-heading text-center">
+				<h2>Work</h2>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus placerat enim et urna sagittis, rhoncus euismod erat tincidunt. Donec tincidunt volutpat erat.</p>
+			</div>
+		</div>
+		<div class="row">
+
+			<div class="col-md-12">
+				<div class="owl-carousel owl-carousel-carousel">
+					@foreach (Location item in Model.Locations)
+					{
+					<div class="item">
+						<div class="gtco-item">
+							<a href="#"><img src="~/images/@item.Img" alt="" class="img-responsive"></a>
+                            <h2><a href="#">@item.Park</a></h2>
+							<p class="role">@item.City</p>
+						</div>
+					</div>
+					}
+				</div>
+			</div>
+
+		</div>
+	</div>
+</div>
+<!-- END Work -->
+
+<div class="gtco-section">
+	<div class="gtco-container">
+		<div class="row">
+			<div class="col-md-6 gtco-news">
+				<h2>News</h2>
+				<ul>
+					@foreach (News item in Model.News)
+					{
+					<li>
+						<a href="#">
+
+								<span class="post-date">@item.Date.ToString("dd MMM yyyy")</span>
+							<h3>@item.Title</h3>
+							<p>@item.Text</p>
+						</a>
+					</li>
+					}
+				</ul>
+				<p><a href="#" class="btn btn-sm btn-special">More News</a></p>
+			</div>
+			<!-- END News -->
+			<div class="col-md-5 col-md-push-1 gtco-testimonials">
+				<h2>Testimonials</h2>
+				@foreach (Testimonial item in Model.Testimonials)
+				{
+				<blockquote>
+					<p>@item.Text</p>
+					<p class="author"><cite>@item.Author</cite></p>
+				</blockquote>
+				}
+			</div>
+		</div>
+	</div>
+</div>
+<!-- END  -->
+
+<div class="gtco-section gto-features">
+	<div class="gtco-container">
+		<div class="row">
+			@foreach (Section item in Model.Sections)
+			{
+			<div class="col-md-4">
+				<div class="feature-left">
+					<i class="@item.Icon icon"></i>
+					<div class="copy">
+						<h3>@item.Title</h3>
+						<p>@item.Text</p>
+						<p><a href="#" class="gtco-more">Learn more</a></p>
+					</div>
+				</div>
+			</div>
+			}
+		</div>
+	</div>
+</div>
+
+
+

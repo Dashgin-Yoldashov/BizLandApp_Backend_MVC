@@ -1,0 +1,25 @@
+﻿@model Corusel
+
+@using (Html.BeginForm("Edit", "Corusel", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="container-fluid" style="width:650px;">
+        <h1 class="mt-5 mb-4">Create Item for Corusel</h1>
+        <div class="d-flex justify-content-between">
+            <input type="hidden" asp-for="Id"/>
+            <div>
+                <label asp-for="Image">Image</label>
+                <input type="text" asp-for="Image" class="form-control" />
+                @Html.ValidationMessageFor(m => m.Image, "", new { @class = "text-danger" })
+            </div>
+            <div>
+                <label asp-for="Architecture">Text</label>
+                <input type="text" asp-for="Architecture" class="form-control" />
+                @Html.ValidationMessageFor(m => m.Architecture, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <br />
+        <button type="submit" class="btn btn-primary">Save</button>
+    </div>
+}

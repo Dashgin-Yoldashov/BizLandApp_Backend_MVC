@@ -1,0 +1,26 @@
+﻿@model List<Corusel>
+<div class="container-fluid text-right">
+    <a href="/admin/Corusel/Create">create</a>
+    <table class="table table-hover text-center mt-3">
+        <thead>
+            <tr>
+                <th>Image</th>
+                <th>Text</th>
+                <th class="col-1"></th>
+                <th class="col-1"></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Corusel item in Model)
+            {
+                <tr>
+                    <td><img style="height:50px; width:70px;" src="/images/@item.Image" alt="Alternate Text" /></td>
+                    <td>@item.Architecture</td>
+                    <td><a class="btn btn-primary" href="/admin/Corusel/Edit/@item.Id"><i class="fas fa-pen"></i></a></td>
+                    <td><a class="btn btn-danger" href="/admin/Corusel/Delete/@item.Id"><i class="fas fa-trash"></i></a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+</div>
